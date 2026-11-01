@@ -1,0 +1,25 @@
+Beruf;ja;nein
+Adeliger/Emigrant;0;1
+Adeliger/Politiker;0;1
+Arzt;1;0
+Bankangestellter/Intellektueller;1;0
+Bankier;2;0
+Beamter;0;1
+Gesellschaft;0;1
+Gesellschaft/Salonnière;0;1
+Industrieller;0;1
+Jurist/Beamter;0;1
+Jurist/Politiker;0;1
+Kaufmann;0;2
+Komponist;2;2
+Philosoph;1;0
+Publizist;4;17
+Salonnière/Gesellschaft;1;0
+Schriftsteller;2;21
+Sekretär;0;2
+Staatsmann;0;4
+Theologe/Wissenschaftler;1;0
+Verleger;1;10
+eng verwandt;4;1
+verwandt;6;0
+Übersetzer;1;2

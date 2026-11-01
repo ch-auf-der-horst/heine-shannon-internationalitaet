@@ -1,0 +1,272 @@
+partner_vollname;phase;richtung;n_briefe;shannon_H;evenness_E;Beziehungstyp;Beruf;Nationalität;Juedische_Herkunft
+Adam Gurowski;MIDDLE;AN_HEINE;6;2.922051;0.879625;Beruflich;Publizist;polnisch;nein
+Adolf Fritz Hvass;MIDDLE;AN_HEINE;4;3.053081;0.919069;Geschäftlich;Verleger;deutsch;nein
+Adolf Fritz Hvass;MIDDLE;VON_HEINE;3;3.015975;0.907899;Geschäftlich;Verleger;deutsch;nein
+Adolphe Loëve-Veimars;MIDDLE;AN_HEINE;5;2.756720;0.829855;Beruflich;Übersetzer;französisch;ja
+Adolphe Loëve-Veimars;MIDDLE;VON_HEINE;3;2.941164;0.885378;Beruflich;Übersetzer;französisch;ja
+Alexander Weill;LATE;VON_HEINE;1;2.762542;0.831608;Beruflich;Publizist;deutsch-französisch;ja
+Alexander Weill;MIDDLE;AN_HEINE;13;3.010178;0.906154;Beruflich;Publizist;deutsch-französisch;ja
+Alexander Weill;MIDDLE;VON_HEINE;17;3.022576;0.909886;Beruflich;Publizist;deutsch-französisch;ja
+Alexandre Dumas;LATE;AN_HEINE;2;2.906204;0.874855;Beruflich;Schriftsteller;französisch;nein
+Alexandre Dumas;LATE;VON_HEINE;3;2.577186;0.775810;Beruflich;Schriftsteller;französisch;nein
+Alexandre Dumas;MIDDLE;AN_HEINE;1;2.684668;0.808166;Beruflich;Schriftsteller;französisch;nein
+Alexandre Dumas;MIDDLE;VON_HEINE;1;2.714276;0.817079;Beruflich;Schriftsteller;französisch;nein
+Alfred Meissner;LATE;AN_HEINE;5;3.036757;0.914155;Beruflich;Schriftsteller;deutsch;nein
+Alfred Meissner;LATE;VON_HEINE;7;3.043811;0.916278;Beruflich;Schriftsteller;deutsch;nein
+Alfred Meissner;MIDDLE;AN_HEINE;2;3.000020;0.903096;Beruflich;Schriftsteller;deutsch;nein
+Alfred Meissner;MIDDLE;VON_HEINE;2;3.014194;0.907363;Beruflich;Schriftsteller;deutsch;nein
+Allgemeine Zeitung;LATE;VON_HEINE;1;2.986944;0.899160;Geschäftlich;Verleger;deutsch;nein
+Allgemeine Zeitung;MIDDLE;VON_HEINE;7;3.029850;0.912076;Geschäftlich;Verleger;deutsch;nein
+Anna Embden;LATE;AN_HEINE;6;2.876920;0.866039;Familie;verwandt;deutsch;ja
+Anna Embden;LATE;VON_HEINE;2;2.861465;0.861387;Familie;verwandt;deutsch;ja
+Anna Embden;MIDDLE;VON_HEINE;1;2.885396;0.868591;Familie;verwandt;deutsch;ja
+Astolphe de Custine;MIDDLE;AN_HEINE;3;2.642949;0.795607;Beruflich;Schriftsteller;französisch;nein
+Astolphe de Custine;MIDDLE;VON_HEINE;4;2.703135;0.813725;Beruflich;Schriftsteller;französisch;nein
+August Gathy;LATE;AN_HEINE;4;3.029595;0.911999;Beruflich;Publizist;deutsch;nein
+August Gathy;LATE;VON_HEINE;2;2.908933;0.875676;Beruflich;Publizist;deutsch;nein
+August Gathy;MIDDLE;VON_HEINE;1;2.938715;0.884641;Beruflich;Publizist;deutsch;nein
+August Lewald;EARLY;VON_HEINE;2;2.932562;0.882789;Beruflich;Schriftsteller;deutsch;nein
+August Lewald;LATE;VON_HEINE;1;2.785555;0.838536;Beruflich;Schriftsteller;deutsch;nein
+August Lewald;MIDDLE;AN_HEINE;36;3.024521;0.910471;Beruflich;Schriftsteller;deutsch;nein
+August Lewald;MIDDLE;VON_HEINE;27;3.024641;0.910508;Beruflich;Schriftsteller;deutsch;nein
+Benjamin Lumley;LATE;AN_HEINE;1;2.600614;0.782863;Beruflich;Schriftsteller;englisch;ja
+Benjamin Lumley;LATE;VON_HEINE;2;2.883871;0.868132;Beruflich;Schriftsteller;englisch;ja
+Benjamin Lumley;MIDDLE;AN_HEINE;5;2.725721;0.820524;Beruflich;Schriftsteller;englisch;ja
+Benjamin Lumley;MIDDLE;VON_HEINE;5;2.853731;0.859059;Beruflich;Schriftsteller;englisch;ja
+Betty Heine;EARLY;VON_HEINE;1;2.692673;0.810575;Familie;eng verwandt;deutsch;ja
+Betty Heine;LATE;AN_HEINE;4;2.852571;0.858709;Familie;eng verwandt;deutsch;ja
+Betty Heine;LATE;VON_HEINE;51;2.905946;0.874777;Familie;eng verwandt;deutsch;ja
+Betty Heine;MIDDLE;AN_HEINE;1;2.753136;0.828776;Familie;eng verwandt;deutsch;ja
+Betty Heine;MIDDLE;VON_HEINE;48;2.894461;0.871320;Familie;eng verwandt;deutsch;ja
+Betty de Rothschild;LATE;AN_HEINE;3;3.075356;0.925774;Bekannter;Salonnière/Gesellschaft;französisch;ja
+Betty de Rothschild;LATE;VON_HEINE;6;3.040040;0.915143;Bekannter;Salonnière/Gesellschaft;französisch;ja
+Betty de Rothschild;MIDDLE;AN_HEINE;3;3.056594;0.920126;Bekannter;Salonnière/Gesellschaft;französisch;ja
+Betty de Rothschild;MIDDLE;VON_HEINE;6;3.008808;0.905741;Bekannter;Salonnière/Gesellschaft;französisch;ja
+Carl Grün;MIDDLE;AN_HEINE;6;3.047958;0.917527;Bekannter;Staatsmann;deutsch;nein
+Carl Grün;MIDDLE;VON_HEINE;5;2.999460;0.902928;Bekannter;Staatsmann;deutsch;nein
+Carl Heine;LATE;AN_HEINE;4;2.835985;0.853717;Familie;verwandt;deutsch;ja
+Carl Heine;MIDDLE;AN_HEINE;34;2.928808;0.881659;Familie;verwandt;deutsch;ja
+Carl Heine;MIDDLE;VON_HEINE;21;2.884529;0.868330;Familie;verwandt;deutsch;ja
+Caroline Jaubert;LATE;AN_HEINE;8;2.640473;0.794862;Freund;Gesellschaft/Salonnière;französisch;nein
+Caroline Jaubert;LATE;VON_HEINE;4;2.725337;0.820408;Freund;Gesellschaft/Salonnière;französisch;nein
+Caroline Jaubert;MIDDLE;AN_HEINE;7;2.647777;0.797060;Freund;Gesellschaft/Salonnière;französisch;nein
+Caroline Jaubert;MIDDLE;VON_HEINE;10;2.678616;0.806344;Freund;Gesellschaft/Salonnière;französisch;nein
+Charles Magnin;LATE;AN_HEINE;3;2.645767;0.796455;Beruflich;Publizist;französisch;nein
+Charles Magnin;LATE;VON_HEINE;4;2.625119;0.790239;Beruflich;Publizist;französisch;nein
+Charlotte Embden (geb. Heine);EARLY;VON_HEINE;18;2.868430;0.863483;Familie;eng verwandt;deutsch;ja
+Charlotte Embden (geb. Heine);LATE;AN_HEINE;32;2.888624;0.869562;Familie;eng verwandt;deutsch;ja
+Charlotte Embden (geb. Heine);LATE;VON_HEINE;17;2.920247;0.879082;Familie;eng verwandt;deutsch;ja
+Charlotte Embden (geb. Heine);MIDDLE;AN_HEINE;1;2.918638;0.878598;Familie;eng verwandt;deutsch;ja
+Charlotte Embden (geb. Heine);MIDDLE;VON_HEINE;18;2.912437;0.876731;Familie;eng verwandt;deutsch;ja
+Christian Heinrich Wöhrmann;LATE;VON_HEINE;1;3.050426;0.918270;Geschäftlich;Kaufmann;deutsch;nein
+Christian Heinrich Wöhrmann;MIDDLE;AN_HEINE;3;3.003337;0.904095;Geschäftlich;Kaufmann;deutsch;nein
+Christian Heinrich Wöhrmann;MIDDLE;VON_HEINE;1;2.958584;0.890622;Geschäftlich;Kaufmann;deutsch;nein
+Christian Schad;LATE;AN_HEINE;5;3.059440;0.920983;Beruflich;Publizist;deutsch;nein
+Christian Schad;LATE;VON_HEINE;3;3.013615;0.907188;Beruflich;Publizist;deutsch;nein
+Christian Sethe;EARLY;VON_HEINE;7;2.842548;0.855692;Freund;Jurist/Beamter;deutsch;nein
+Christine de Belgiojoso;LATE;AN_HEINE;5;2.619123;0.788435;Beruflich;Schriftsteller;italienisch;nein
+Christine de Belgiojoso;LATE;VON_HEINE;1;2.696810;0.811821;Beruflich;Schriftsteller;italienisch;nein
+Christine de Belgiojoso;MIDDLE;AN_HEINE;10;2.660783;0.800975;Beruflich;Schriftsteller;italienisch;nein
+Christine de Belgiojoso;MIDDLE;VON_HEINE;23;2.662431;0.801472;Beruflich;Schriftsteller;italienisch;nein
+Cécile Heine (geb. Furtado);MIDDLE;AN_HEINE;10;2.688259;0.809247;Familie;verwandt;französisch;ja
+Cécile Heine (geb. Furtado);MIDDLE;VON_HEINE;9;2.834451;0.853255;Familie;verwandt;französisch;ja
+Edgar Quinet;MIDDLE;AN_HEINE;4;2.658355;0.800245;Beruflich;Schriftsteller;französisch;nein
+Edgar Quinet;MIDDLE;VON_HEINE;2;2.701868;0.813343;Beruflich;Schriftsteller;französisch;nein
+Edouard Drouyn de Lhuys;LATE;AN_HEINE;2;2.675642;0.805449;Bekannter;Staatsmann;französisch;nein
+Edouard Drouyn de Lhuys;LATE;VON_HEINE;4;2.716903;0.817869;Bekannter;Staatsmann;französisch;nein
+Edouard de La Grange;LATE;VON_HEINE;1;2.573346;0.774654;Beruflich;Übersetzer;französisch;nein
+Edouard de La Grange;MIDDLE;AN_HEINE;1;2.666237;0.802617;Beruflich;Übersetzer;französisch;nein
+Edouard de La Grange;MIDDLE;VON_HEINE;9;2.810765;0.846125;Beruflich;Übersetzer;französisch;nein
+Elise Krinitz;LATE;AN_HEINE;6;2.890842;0.870230;Beruflich;Schriftsteller;deutsch;nein
+Elise Krinitz;LATE;VON_HEINE;25;2.939603;0.884909;Beruflich;Schriftsteller;deutsch;nein
+Eugen von Breza;LATE;AN_HEINE;1;2.913556;0.877068;Freund;Adeliger/Emigrant;polnisch;nein
+Eugen von Breza;MIDDLE;AN_HEINE;9;2.908589;0.875573;Freund;Adeliger/Emigrant;polnisch;nein
+Eugen von Breza;MIDDLE;VON_HEINE;1;2.846453;0.856868;Freund;Adeliger/Emigrant;polnisch;nein
+Eugen von Vaerst;MIDDLE;AN_HEINE;4;3.031152;0.912468;Beruflich;Publizist;deutsch;nein
+Eugen von Vaerst;MIDDLE;VON_HEINE;1;3.042178;0.915787;Beruflich;Publizist;deutsch;nein
+Eugène Renduel;LATE;AN_HEINE;1;2.674301;0.805045;Geschäftlich;Verleger;französisch;nein
+Eugène Renduel;MIDDLE;AN_HEINE;4;2.672500;0.804503;Geschäftlich;Verleger;französisch;nein
+Eugène Renduel;MIDDLE;VON_HEINE;8;2.685835;0.808517;Geschäftlich;Verleger;französisch;nein
+Fanny Lewald;LATE;AN_HEINE;4;3.073095;0.925094;Freund;Schriftsteller;deutsch;nein
+Fanny Lewald;MIDDLE;AN_HEINE;1;3.066290;0.923045;Freund;Schriftsteller;deutsch;nein
+Ferdinand Friedland;LATE;AN_HEINE;6;3.054245;0.919419;Bekannter;Industrieller;deutsch;nein
+Ferdinand Friedland;LATE;VON_HEINE;1;3.091384;0.930599;Bekannter;Industrieller;deutsch;nein
+Ferdinand Friedland;MIDDLE;AN_HEINE;6;3.056057;0.919965;Bekannter;Industrieller;deutsch;nein
+Ferdinand Friedland;MIDDLE;VON_HEINE;10;3.023537;0.910175;Bekannter;Industrieller;deutsch;nein
+Ferdinand Hiller;LATE;AN_HEINE;2;3.028046;0.911533;Bekannter;Komponist;deutsch;ja
+Ferdinand Hiller;MIDDLE;AN_HEINE;3;3.019062;0.908828;Bekannter;Komponist;deutsch;ja
+Ferdinand Hiller;MIDDLE;VON_HEINE;8;3.016755;0.908134;Bekannter;Komponist;deutsch;ja
+Ferdinand Lassalle;LATE;AN_HEINE;1;3.145351;0.946845;Bekannter;Philosoph;deutsch;ja
+Ferdinand Lassalle;LATE;VON_HEINE;1;2.983359;0.898081;Bekannter;Philosoph;deutsch;ja
+Ferdinand Lassalle;MIDDLE;AN_HEINE;2;3.002056;0.903709;Bekannter;Philosoph;deutsch;ja
+Ferdinand Lassalle;MIDDLE;VON_HEINE;5;2.938567;0.884597;Bekannter;Philosoph;deutsch;ja
+Franz Liszt;MIDDLE;AN_HEINE;3;3.010193;0.906158;Bekannter;Komponist;ungarisch;nein
+Franz Liszt;MIDDLE;VON_HEINE;8;2.995453;0.901721;Bekannter;Komponist;ungarisch;nein
+François Buloz;LATE;AN_HEINE;1;2.625007;0.790206;Geschäftlich;Verleger;französisch;nein
+François Buloz;LATE;VON_HEINE;8;2.667070;0.802868;Geschäftlich;Verleger;französisch;nein
+François Buloz;MIDDLE;VON_HEINE;2;2.658387;0.800254;Geschäftlich;Verleger;französisch;nein
+François Mignet;LATE;VON_HEINE;2;2.641415;0.795145;Bekannter;Staatsmann;französisch;nein
+François Mignet;MIDDLE;AN_HEINE;3;2.729763;0.821740;Bekannter;Staatsmann;französisch;nein
+François Mignet;MIDDLE;VON_HEINE;8;2.688797;0.809409;Bekannter;Staatsmann;französisch;nein
+Friederike Robert;EARLY;AN_HEINE;1;3.014964;0.907595;Freund;Gesellschaft;deutsch;nein
+Friederike Robert;EARLY;VON_HEINE;10;2.991952;0.900667;Freund;Gesellschaft;deutsch;nein
+Friedrich Merckel;EARLY;VON_HEINE;41;2.932342;0.882723;Freund;Kaufmann;deutsch;nein
+Friedrich Merckel;MIDDLE;AN_HEINE;1;2.925890;0.880781;Freund;Kaufmann;deutsch;nein
+Friedrich Merckel;MIDDLE;VON_HEINE;1;2.826225;0.850778;Freund;Kaufmann;deutsch;nein
+Georg Weerth;LATE;AN_HEINE;9;3.013797;0.907243;Beruflich;Publizist;deutsch;nein
+Georg Weerth;LATE;VON_HEINE;2;3.025872;0.910878;Beruflich;Publizist;deutsch;nein
+George Sand;MIDDLE;AN_HEINE;14;2.685731;0.808486;Beruflich;Schriftsteller;französisch;nein
+George Sand;MIDDLE;VON_HEINE;11;2.689259;0.809548;Beruflich;Schriftsteller;französisch;nein
+Giacomo Meyerbeer;LATE;VON_HEINE;4;2.744636;0.826218;Bekannter;Komponist;deutsch;ja
+Giacomo Meyerbeer;MIDDLE;AN_HEINE;47;3.012498;0.906852;Bekannter;Komponist;deutsch;ja
+Giacomo Meyerbeer;MIDDLE;VON_HEINE;28;3.028546;0.911683;Bekannter;Komponist;deutsch;ja
+Gustav Ferdinand Kühne;MIDDLE;AN_HEINE;3;3.030693;0.912330;Beruflich;Publizist;deutsch;nein
+Gustav Ferdinand Kühne;MIDDLE;VON_HEINE;9;3.021280;0.909496;Beruflich;Publizist;deutsch;nein
+Gustav Heine;LATE;AN_HEINE;17;2.892239;0.870651;Familie;eng verwandt;deutsch;ja
+Gustav Heine;LATE;VON_HEINE;26;2.940826;0.885277;Familie;eng verwandt;deutsch;ja
+Gustav Heine;MIDDLE;VON_HEINE;2;2.882458;0.867706;Familie;eng verwandt;deutsch;ja
+Gustav Kolb;EARLY;VON_HEINE;1;2.853510;0.858992;Beruflich;Publizist;deutsch;nein
+Gustav Kolb;LATE;AN_HEINE;2;3.054212;0.919410;Beruflich;Publizist;deutsch;nein
+Gustav Kolb;LATE;VON_HEINE;8;3.013200;0.907064;Beruflich;Publizist;deutsch;nein
+Gustav Kolb;MIDDLE;AN_HEINE;9;3.073290;0.925153;Beruflich;Publizist;deutsch;nein
+Gustav Kolb;MIDDLE;VON_HEINE;43;2.998366;0.902598;Beruflich;Publizist;deutsch;nein
+Hans Christian Andersen;MIDDLE;AN_HEINE;4;2.871054;0.864273;Beruflich;Schriftsteller;dänisch;nein
+Hans Christian Andersen;MIDDLE;VON_HEINE;2;3.032461;0.912862;Beruflich;Schriftsteller;dänisch;nein
+Hector Berlioz;LATE;AN_HEINE;5;2.651220;0.798097;Bekannter;Komponist;französisch;nein
+Hector Berlioz;LATE;VON_HEINE;4;2.832527;0.852676;Bekannter;Komponist;französisch;nein
+Hector Berlioz;MIDDLE;AN_HEINE;1;2.591505;0.780121;Bekannter;Komponist;französisch;nein
+Hector Berlioz;MIDDLE;VON_HEINE;2;2.722791;0.819642;Bekannter;Komponist;französisch;nein
+Heinrich Brockhaus;LATE;VON_HEINE;1;2.991505;0.900533;Geschäftlich;Verleger;deutsch;nein
+Heinrich Brockhaus;MIDDLE;AN_HEINE;3;3.064824;0.922604;Geschäftlich;Verleger;deutsch;nein
+Heinrich Brockhaus;MIDDLE;VON_HEINE;2;3.043369;0.916145;Geschäftlich;Verleger;deutsch;nein
+Heinrich Laube;LATE;AN_HEINE;3;2.963844;0.892206;Beruflich;Publizist;deutsch;nein
+Heinrich Laube;LATE;VON_HEINE;5;2.944515;0.886387;Beruflich;Publizist;deutsch;nein
+Heinrich Laube;MIDDLE;AN_HEINE;45;3.046486;0.917084;Beruflich;Publizist;deutsch;nein
+Heinrich Laube;MIDDLE;VON_HEINE;37;3.004698;0.904504;Beruflich;Publizist;deutsch;nein
+Helmina von Chézy;MIDDLE;AN_HEINE;4;3.041856;0.915690;Beruflich;Schriftsteller;deutsch;nein
+Helmina von Chézy;MIDDLE;VON_HEINE;2;2.998684;0.902694;Beruflich;Schriftsteller;deutsch;nein
+Henry Heine;MIDDLE;AN_HEINE;3;2.901977;0.873582;Familie;verwandt;deutsch;ja
+Henry Heine;MIDDLE;VON_HEINE;5;2.997266;0.902267;Familie;verwandt;deutsch;ja
+Hermann David Schiff;LATE;AN_HEINE;6;2.946199;0.886894;Beruflich;Schriftsteller;deutsch;ja
+Hermann David Schiff;MIDDLE;AN_HEINE;1;2.947548;0.887300;Beruflich;Schriftsteller;deutsch;ja
+Hermann von Pückler-Muskau;LATE;AN_HEINE;11;3.032286;0.912809;Beruflich;Schriftsteller;deutsch;nein
+Hermann von Pückler-Muskau;LATE;VON_HEINE;6;3.035427;0.913754;Beruflich;Schriftsteller;deutsch;nein
+Hermann von Pückler-Muskau;MIDDLE;AN_HEINE;3;3.022336;0.909814;Beruflich;Schriftsteller;deutsch;nein
+Hermann von Pückler-Muskau;MIDDLE;VON_HEINE;1;2.994761;0.901513;Beruflich;Schriftsteller;deutsch;nein
+Honoré de Balzac;MIDDLE;AN_HEINE;3;2.667762;0.803076;Beruflich;Schriftsteller;französisch;nein
+Honoré de Balzac;MIDDLE;VON_HEINE;2;2.662821;0.801589;Beruflich;Schriftsteller;französisch;nein
+Ignaz Kuranda;LATE;AN_HEINE;1;2.999109;0.902822;Beruflich;Publizist;deutsch;ja
+Ignaz Kuranda;LATE;VON_HEINE;1;2.872330;0.864657;Beruflich;Publizist;deutsch;ja
+Ignaz Kuranda;MIDDLE;VON_HEINE;4;2.944588;0.886409;Beruflich;Publizist;deutsch;ja
+J. Homberg & Co.;LATE;AN_HEINE;56;2.975313;0.895658;Geschäftlich;Bankier;französisch;ja
+J. Homberg & Co.;LATE;VON_HEINE;39;2.752168;0.828485;Geschäftlich;Bankier;französisch;ja
+Jacques-Eloi Mallac;MIDDLE;AN_HEINE;5;2.695158;0.811323;Bekannter;Staatsmann;französisch;nein
+Jakob Venedey;LATE;AN_HEINE;1;3.063911;0.922329;Beruflich;Publizist;deutsch;nein
+Jakob Venedey;MIDDLE;AN_HEINE;12;3.039216;0.914895;Beruflich;Publizist;deutsch;nein
+Jakob Venedey;MIDDLE;VON_HEINE;7;3.033959;0.913313;Beruflich;Publizist;deutsch;nein
+James de Rothschild;LATE;VON_HEINE;4;2.984814;0.898518;Geschäftlich;Bankier;französisch;ja
+James de Rothschild;MIDDLE;AN_HEINE;4;2.963627;0.892141;Geschäftlich;Bankier;französisch;ja
+Johann Baptist Rousseau;EARLY;AN_HEINE;1;2.944502;0.886383;Beruflich;Publizist;deutsch;nein
+Johann Baptist Rousseau;EARLY;VON_HEINE;5;2.954227;0.889311;Beruflich;Publizist;deutsch;nein
+Johann Friedrich von Cotta;EARLY;AN_HEINE;1;3.005078;0.904619;Geschäftlich;Verleger;deutsch;nein
+Johann Friedrich von Cotta;EARLY;VON_HEINE;8;2.990363;0.900189;Geschäftlich;Verleger;deutsch;nein
+Johann Friedrich von Cotta;MIDDLE;AN_HEINE;2;3.007823;0.905445;Geschäftlich;Verleger;deutsch;nein
+Johann Friedrich von Cotta;MIDDLE;VON_HEINE;9;3.001250;0.903466;Geschäftlich;Verleger;deutsch;nein
+Johann Georg von Cotta;LATE;AN_HEINE;1;3.036149;0.913972;Geschäftlich;Verleger;deutsch;nein
+Johann Georg von Cotta;LATE;VON_HEINE;1;3.060807;0.921395;Geschäftlich;Verleger;deutsch;nein
+Johann Georg von Cotta;MIDDLE;AN_HEINE;5;3.035520;0.913783;Geschäftlich;Verleger;deutsch;nein
+Johann Georg von Cotta;MIDDLE;VON_HEINE;14;3.015653;0.907802;Geschäftlich;Verleger;deutsch;nein
+Johann Hermann Detmold;EARLY;VON_HEINE;5;2.993453;0.901119;Beruflich;Schriftsteller;deutsch;nein
+Johann Hermann Detmold;LATE;AN_HEINE;2;2.998318;0.902584;Beruflich;Schriftsteller;deutsch;nein
+Johann Hermann Detmold;LATE;VON_HEINE;2;3.027936;0.911500;Beruflich;Schriftsteller;deutsch;nein
+Johann Hermann Detmold;MIDDLE;AN_HEINE;21;3.012785;0.906939;Beruflich;Schriftsteller;deutsch;nein
+Johann Hermann Detmold;MIDDLE;VON_HEINE;22;2.991142;0.900424;Beruflich;Schriftsteller;deutsch;nein
+Johann Peter Lyser;EARLY;VON_HEINE;5;2.998322;0.902585;Freund;Schriftsteller;deutsch;nein
+Johannes Scheible;MIDDLE;AN_HEINE;4;3.049954;0.918128;Geschäftlich;Verleger;deutsch;nein
+Johannes Scheible;MIDDLE;VON_HEINE;2;3.007197;0.905256;Geschäftlich;Verleger;deutsch;nein
+Joseph Lehmann;EARLY;VON_HEINE;8;3.021834;0.909663;Beruflich;Publizist;deutsch;nein
+Joseph Lehmann;LATE;AN_HEINE;4;3.039253;0.914906;Beruflich;Publizist;deutsch;nein
+Joseph Lehmann;LATE;VON_HEINE;1;3.010208;0.906163;Beruflich;Publizist;deutsch;nein
+Joseph Lehmann;MIDDLE;AN_HEINE;1;3.042603;0.915915;Beruflich;Publizist;deutsch;nein
+Joseph Savoye;MIDDLE;AN_HEINE;6;3.050004;0.918143;Beruflich;Publizist;deutsch-französisch;nein
+Julius Campe;EARLY;AN_HEINE;24;3.059362;0.920960;Geschäftlich;Verleger;deutsch;nein
+Julius Campe;EARLY;VON_HEINE;18;2.944029;0.886241;Geschäftlich;Verleger;deutsch;nein
+Julius Campe;LATE;AN_HEINE;47;3.035177;0.913679;Geschäftlich;Verleger;deutsch;nein
+Julius Campe;LATE;VON_HEINE;100;3.016280;0.907991;Geschäftlich;Verleger;deutsch;nein
+Julius Campe;MIDDLE;AN_HEINE;123;3.012050;0.906717;Geschäftlich;Verleger;deutsch;nein
+Julius Campe;MIDDLE;VON_HEINE;137;3.015905;0.907878;Geschäftlich;Verleger;deutsch;nein
+Karl August Varnhagen von Ense;EARLY;AN_HEINE;8;3.033160;0.913072;Beruflich;Schriftsteller;deutsch;nein
+Karl August Varnhagen von Ense;EARLY;VON_HEINE;27;2.995365;0.901695;Beruflich;Schriftsteller;deutsch;nein
+Karl August Varnhagen von Ense;LATE;AN_HEINE;3;3.052606;0.918926;Beruflich;Schriftsteller;deutsch;nein
+Karl August Varnhagen von Ense;LATE;VON_HEINE;1;2.637877;0.794080;Beruflich;Schriftsteller;deutsch;nein
+Karl August Varnhagen von Ense;MIDDLE;AN_HEINE;17;3.033701;0.913235;Beruflich;Schriftsteller;deutsch;nein
+Karl August Varnhagen von Ense;MIDDLE;VON_HEINE;17;3.031071;0.912443;Beruflich;Schriftsteller;deutsch;nein
+Karl Immermann;EARLY;AN_HEINE;5;3.019606;0.908992;Beruflich;Schriftsteller;deutsch;nein
+Karl Immermann;EARLY;VON_HEINE;17;3.017981;0.908503;Beruflich;Schriftsteller;deutsch;nein
+Karl Immermann;MIDDLE;AN_HEINE;3;3.034853;0.913582;Beruflich;Schriftsteller;deutsch;nein
+Karl Immermann;MIDDLE;VON_HEINE;1;2.950598;0.888218;Beruflich;Schriftsteller;deutsch;nein
+Karl Maria Kertbény;LATE;AN_HEINE;3;3.050066;0.918161;Beruflich;Schriftsteller;deutsch-ungarisch;nein
+Karl Maria Kertbény;LATE;VON_HEINE;3;3.017608;0.908390;Beruflich;Schriftsteller;deutsch-ungarisch;nein
+Karl Maria Kertbény;MIDDLE;AN_HEINE;2;3.039122;0.914867;Beruflich;Schriftsteller;deutsch-ungarisch;nein
+Karl Marx;LATE;VON_HEINE;3;2.902014;0.873593;Beruflich;Publizist;deutsch;ja
+Karl Marx;MIDDLE;AN_HEINE;3;3.022269;0.909794;Beruflich;Publizist;deutsch;ja
+Karl Marx;MIDDLE;VON_HEINE;1;2.949888;0.888005;Beruflich;Publizist;deutsch;ja
+Leopold Wertheim;LATE;VON_HEINE;11;3.028092;0.911546;Bekannter;Arzt;österreichisch;ja
+Leopold Wertheim;MIDDLE;VON_HEINE;4;2.972567;0.894832;Bekannter;Arzt;österreichisch;ja
+Leopold Zunz;EARLY;VON_HEINE;6;2.984641;0.898467;Freund;Theologe/Wissenschaftler;deutsch;ja
+Louis Gouin;LATE;VON_HEINE;4;2.794144;0.841121;Bekannter;Beamter;französisch;nein
+Louis Gouin;MIDDLE;AN_HEINE;1;2.637270;0.793897;Bekannter;Beamter;französisch;nein
+Louis Gouin;MIDDLE;VON_HEINE;1;2.674141;0.804997;Bekannter;Beamter;französisch;nein
+Magnus von Moltke;MIDDLE;AN_HEINE;3;3.050655;0.918339;Bekannter;Adeliger/Politiker;deutsch;nein
+Magnus von Moltke;MIDDLE;VON_HEINE;2;3.020003;0.909111;Bekannter;Adeliger/Politiker;deutsch;nein
+Maria de Merlin;MIDDLE;AN_HEINE;3;2.715255;0.817373;Beruflich;Schriftsteller;französisch;nein
+Maria de Merlin;MIDDLE;VON_HEINE;3;2.720026;0.818809;Beruflich;Schriftsteller;französisch;nein
+Marie Escudier;LATE;VON_HEINE;1;2.656379;0.799650;Beruflich;Publizist;französisch;nein
+Marie Escudier;MIDDLE;AN_HEINE;1;2.639821;0.794665;Beruflich;Publizist;französisch;nein
+Marie Escudier;MIDDLE;VON_HEINE;6;2.737353;0.824025;Beruflich;Publizist;französisch;nein
+Mathilde Heine;MIDDLE;VON_HEINE;25;2.557307;0.769826;Familie;eng verwandt;französisch;nein
+Maximilian Heine;EARLY;AN_HEINE;2;2.891118;0.870313;Familie;eng verwandt;deutsch;ja
+Maximilian Heine;LATE;AN_HEINE;6;2.912697;0.876809;Familie;eng verwandt;deutsch;ja
+Maximilian Heine;LATE;VON_HEINE;18;2.921262;0.879388;Familie;eng verwandt;deutsch;ja
+Maximilian Heine;MIDDLE;AN_HEINE;18;2.885789;0.868709;Familie;eng verwandt;deutsch;ja
+Maximilian Heine;MIDDLE;VON_HEINE;8;2.919064;0.878726;Familie;eng verwandt;deutsch;ja
+Michael Schloss;LATE;AN_HEINE;10;3.047162;0.917287;Geschäftlich;Verleger;deutsch;nein
+Michael Schloss;LATE;VON_HEINE;18;3.027151;0.911263;Geschäftlich;Verleger;deutsch;nein
+Michel Chevalier;LATE;AN_HEINE;2;2.618129;0.788136;Beruflich;Publizist;französisch;nein
+Michel Chevalier;LATE;VON_HEINE;3;2.681004;0.807063;Beruflich;Publizist;französisch;nein
+Michel Chevalier;MIDDLE;AN_HEINE;4;2.658402;0.800259;Beruflich;Publizist;französisch;nein
+Michel Chevalier;MIDDLE;VON_HEINE;4;2.716920;0.817874;Beruflich;Publizist;französisch;nein
+Michel Lévy;LATE;VON_HEINE;13;2.672915;0.804627;Geschäftlich;Verleger;französisch;ja
+Moses Moser;EARLY;AN_HEINE;1;2.957192;0.890204;Freund;Bankangestellter/Intellektueller;deutsch;ja
+Moses Moser;EARLY;VON_HEINE;48;2.889987;0.869973;Freund;Bankangestellter/Intellektueller;deutsch;ja
+Moses Moser;MIDDLE;AN_HEINE;1;2.949340;0.887840;Freund;Bankangestellter/Intellektueller;deutsch;ja
+Moses Moser;MIDDLE;VON_HEINE;2;2.868721;0.863571;Freund;Bankangestellter/Intellektueller;deutsch;ja
+Nicolas Martin;MIDDLE;AN_HEINE;2;2.661857;0.801299;Beruflich;Publizist;französisch;nein
+Nicolas Martin;MIDDLE;VON_HEINE;4;2.901428;0.873417;Beruflich;Publizist;französisch;nein
+Richard Reinhardt;LATE;AN_HEINE;7;3.019980;0.909105;Beruflich;Sekretär;deutsch;nein
+Richard von Zychlinski;LATE;AN_HEINE;4;3.005534;0.904756;Beruflich;Sekretär;deutsch;nein
+Richard von Zychlinski;LATE;VON_HEINE;2;2.883866;0.868130;Beruflich;Sekretär;deutsch;nein
+Rose Furtado;LATE;VON_HEINE;1;2.659315;0.800534;Familie;verwandt;französisch;ja
+Rose Furtado;MIDDLE;AN_HEINE;16;2.672091;0.804380;Familie;verwandt;französisch;ja
+Rose Furtado;MIDDLE;VON_HEINE;5;2.803725;0.844005;Familie;verwandt;französisch;ja
+Rudolf Christiani;EARLY;VON_HEINE;18;2.954831;0.889493;Freund;Jurist/Politiker;deutsch;nein
+Rudolf Christiani;LATE;AN_HEINE;1;2.981635;0.897562;Freund;Jurist/Politiker;deutsch;nein
+Rudolf Christiani;MIDDLE;AN_HEINE;1;2.929420;0.881843;Freund;Jurist/Politiker;deutsch;nein
+Rudolf Christiani;MIDDLE;VON_HEINE;1;2.840904;0.855197;Freund;Jurist/Politiker;deutsch;nein
+Saint-René Taillandier;LATE;AN_HEINE;2;2.945660;0.886732;Beruflich;Übersetzer;französisch;nein
+Saint-René Taillandier;LATE;VON_HEINE;8;2.769298;0.833642;Beruflich;Übersetzer;französisch;nein
+Salomon Heine;EARLY;AN_HEINE;2;2.947760;0.887364;Familie;verwandt;deutsch;ja
+Salomon Heine;EARLY;VON_HEINE;7;2.935679;0.883727;Familie;verwandt;deutsch;ja
+Salomon Heine;MIDDLE;AN_HEINE;13;2.929835;0.881968;Familie;verwandt;deutsch;ja
+Salomon Heine;MIDDLE;VON_HEINE;10;2.897482;0.872229;Familie;verwandt;deutsch;ja
+Sigmund Engländer;LATE;AN_HEINE;4;2.949599;0.887918;Beruflich;Publizist;österreichisch;ja
+Sigmund Engländer;LATE;VON_HEINE;3;3.014147;0.907349;Beruflich;Publizist;österreichisch;ja
+Theodor Creizenach;MIDDLE;AN_HEINE;2;3.011955;0.906689;Beruflich;Schriftsteller;deutsch;nein
+Theodor Creizenach;MIDDLE;VON_HEINE;2;2.943653;0.886128;Beruflich;Schriftsteller;deutsch;nein
+Theodor von Kobbe;EARLY;AN_HEINE;1;3.010746;0.906325;Beruflich;Schriftsteller;deutsch;nein
+Theodor von Kobbe;EARLY;VON_HEINE;1;3.005460;0.904734;Beruflich;Schriftsteller;deutsch;nein
+Theodor von Kobbe;MIDDLE;AN_HEINE;3;3.016862;0.908166;Beruflich;Schriftsteller;deutsch;nein
+Theodor von Kobbe;MIDDLE;VON_HEINE;1;3.007161;0.905246;Beruflich;Schriftsteller;deutsch;nein
+Wolfgang Menzel;EARLY;AN_HEINE;1;3.043392;0.916152;Beruflich;Publizist;deutsch;nein
+Wolfgang Menzel;EARLY;VON_HEINE;6;2.975580;0.895739;Beruflich;Publizist;deutsch;nein
+Wolfgang Menzel;MIDDLE;VON_HEINE;1;3.016976;0.908200;Beruflich;Publizist;deutsch;nein
