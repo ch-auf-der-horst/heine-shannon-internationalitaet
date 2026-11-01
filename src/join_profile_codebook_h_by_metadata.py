@@ -8,8 +8,8 @@ Uses only metadata from codebook (Beziehungstyp, Beruf, Nationalität, Juedische
 Category weights and shannon_H come exclusively from the profile (ML pipeline).
 
 Outputs:
-  - Auswertungen/shannon_H_by_metadata.csv (joined table)
-  - Auswertungen/shannon_H_by_metadata_report.md (summary statistics)
+  - data/shannon_H_by_metadata.csv (joined table)
+  - data/shannon_H_by_metadata_report.md (summary statistics)
 """
 
 from __future__ import annotations

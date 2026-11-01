@@ -6,7 +6,7 @@ Partner-gewichtete Metadaten-Kreuztabellen und P_k-Profile (TOP-100-Korpus).
 Pro Korrespondent genau ein Eintrag: Mittel der Funktionsgewichte über alle Briefe
 in brief_predictions_top100.csv (= partner-gewichtet; jeder Partner zählt gleich).
 
-Outputs (Unterordner Auswertungen/metadata_partner_top100/):
+Outputs (Unterordner data/metadata_partner_top100/):
   - partner_stufe_pk_meta.csv — eine Zeile pro Partner mit Mittel-P_k + Metadaten
   - Kreuztabellen je Paar (Nationalität, Beziehungstyp, Beruf, Juedische_Herkunft):
       *_counts.csv, *_row_norm.csv, *_col_norm.csv

@@ -6,10 +6,10 @@ Hybrid-Plot der globalen Shannon-Diversitaet:
 - EARLY/MIDDLE/LATE bleiben als explizite Stuetzpunkte markiert
 
 Input:
-  - Auswertungen/brief_predictions_top100.csv
+  - data/brief_predictions_top100.csv
 
 Output:
-  - Auswertungen/plot_global_shannon_hybrid_by_year.png/.pdf
+  - data/plot_global_shannon_hybrid_by_year.png/.pdf
 
 Fuer Spyder:
   - Skript direkt ausfuehren (Run)

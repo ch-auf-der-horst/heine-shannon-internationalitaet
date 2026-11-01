@@ -10,12 +10,12 @@ Computes multiple aggregation variants from letter-level predictions:
   (optional) D) length-weighted + trimmed (also computed)
 
 Inputs:
-  - Auswertungen/brief_predictions_top100.csv
+  - data/brief_predictions_top100.csv
   - Master CSV (for brieftext length per letterid)
 
 Outputs:
-  - Auswertungen/robustness_shannon_comparison.csv
-  - Auswertungen/robustness_shannon_report.md
+  - data/robustness_shannon_comparison.csv
+  - data/robustness_shannon_report.md
 """
 
 from __future__ import annotations

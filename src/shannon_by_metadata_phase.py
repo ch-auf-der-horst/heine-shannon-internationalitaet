@@ -5,16 +5,16 @@ Korrespondenten-spezifische Shannon-H/Evenness-Werte pro Phase (EARLY/MIDDLE/LAT
 basierend auf brief_predictions_top100.csv, verknüpft mit Codebook-Metadaten.
 
 Die Logik orientiert sich an:
-- ml/global_shannon_by_phase_direction.py (Phasen-Definition)
-- ml/join_profile_codebook_h_by_metadata.py (Metadaten-Join)
+- src/global_shannon_by_phase_direction.py (Phasen-Definition)
+- src/join_profile_codebook_h_by_metadata.py (Metadaten-Join)
 
 Output:
-  - Auswertungen/shannon_H_by_metadata_phase.csv
+  - data/shannon_H_by_metadata_phase.csv
       Eine Zeile pro (partner_vollname, phase) mit:
         partner_vollname, phase, richtung, n_briefe,
         shannon_H, evenness_E,
         Beziehungstyp, Beruf, Nationalität, Juedische_Herkunft
-  - Auswertungen/shannon_H_by_metadata_phase_report.md
+  - data/shannon_H_by_metadata_phase_report.md
       Deskriptive Tabellen:
         H nach Phase × Nationalität
         H nach Phase × Beziehungstyp

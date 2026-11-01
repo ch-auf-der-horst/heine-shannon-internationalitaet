@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Visualisierungen zur Internationalität (Codebook: Nationalität) × Phase
-auf Basis von Auswertungen/shannon_H_by_metadata_phase.csv.
+auf Basis von data/shannon_H_by_metadata_phase.csv.
 
 Aggregationen:
   (A) Wie im Report shannon_H_by_metadata_phase_report.md: Mittelwert von H über
@@ -10,7 +10,7 @@ Aggregationen:
   (B) Partner-zentriert: pro (partner_vollname, phase, Nationalität) Mittel über
       Richtungen, dann Verteilungsplots (Violin/Strip).
 
-Outputs (Auswertungen/):
+Outputs (data/):
   - plot_internationality_H_de_fr.png/.pdf
   - plot_internationality_heatmap.png/.pdf
   - plot_internationality_partner_violin_de_fr.png/.pdf

@@ -5,12 +5,12 @@ Baseline training: TF-IDF (word + char ngrams) -> multi-output regression for
 10 category weights.
 
 Inputs:
-  - Auswertungen/train_labeled_letters.csv
+  - local/train_labeled_letters.csv (not published; contains letter texts)
 
 Outputs:
-  - Auswertungen/ml_baseline_tfidf_model.joblib
-  - Auswertungen/ml_baseline_tfidf_report.md
-  - Auswertungen/ml_baseline_tfidf_metrics.json
+  - local/ml_baseline_tfidf_model.joblib (not published)
+  - data/ml_baseline_tfidf_report.md
+  - data/ml_baseline_tfidf_metrics.json
     (Ridge + Baselines Uniform/Train-Mittel; je Methode: pooled Metriken, SD über Folds,
      fold_level, MAE/Kategorie-Std über Folds)
 """

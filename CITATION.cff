@@ -2,12 +2,15 @@ cff-version: 1.2.0
 message: "Wenn Sie dieses Reproduktionsmaterial nutzen, zitieren Sie bitte den Aufsatz und diesen Release."
 title: "Heine-Korrespondenz: Shannon-Index und Internationalität (Reproduktionsmaterial)"
 authors:
-  - family-names: Aufderhorst
+  - family-names: "auf der Horst"
     given-names: Christoph
+    affiliation: "Heinrich-Heine-Universität Düsseldorf, Arbeitsstelle Entwicklung moderner Lehrmethodik und -didaktik – insbesondere Fremdsprachen"
+    email: chorst@hhu.de
 type: software
 version: "1.0.0"
 date-released: "2026-10-31"
 license: MIT
+repository-code: "https://github.com/ch-auf-der-horst/heine-shannon-internationalitaet"
 abstract: >
   Pipeline-Code und aggregierte Kennzahlen zur Analyse funktionaler Diversität
   (Shannon-Index über zehn relationale Kategorien) im TOP-100-Briefnetz

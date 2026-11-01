@@ -50,10 +50,14 @@ Path defaults in `src/` are **relative** to the repository root (`data/`, `local
 
 ## Rights / privacy
 
-- **Code:** [license TBD, e.g. MIT]
-- **Aggregated research data:** [e.g. CC-BY 4.0] — without edition full texts
+- **Code:** MIT License (see `LICENSE`)
+- **Aggregated research data** (`data/`, `figures/`): CC BY 4.0 — without edition full texts
 - **DHA letter texts:** not included; rights remain with the edition
 - **Trained `.joblib` model:** not included (may embed text-derived vocabulary); available on request
+
+## Software and AI assistance
+
+The computational analyses were carried out in Python, using in particular scikit-learn, pandas, NumPy and matplotlib. An AI-assisted programming environment was used to support the development of individual scripts; all methodological decisions and interpretations are the author's own.
 
 ## Citation
 
@@ -67,4 +71,7 @@ Cite this repository / release / DOI once published. See `CITATION.cff`.
 
 ## Author
 
-Christoph Aufderhorst — [affiliation TBD]
+C. auf der Horst  
+Arbeitsstelle Entwicklung moderner Lehrmethodik und -didaktik – insbesondere Fremdsprachen,  
+Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Deutschland  
+E-Mail: chorst@hhu.de

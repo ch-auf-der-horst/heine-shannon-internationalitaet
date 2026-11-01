@@ -12,12 +12,12 @@ Two global aggregation schemes:
      then aggregate across partners (each partner counts equally)
 
 Inputs:
-  - Auswertungen/brief_predictions_top100.csv
+  - data/brief_predictions_top100.csv
 
 Outputs:
-  - Auswertungen/global_shannon_top100_by_phase_direction.csv
-  - Auswertungen/global_shannon_top100_by_phase_direction.md
-  - Auswertungen/plot_global_shannon_by_phase_direction.png/.pdf
+  - data/global_shannon_top100_by_phase_direction.csv
+  - data/global_shannon_top100_by_phase_direction.md
+  - data/plot_global_shannon_by_phase_direction.png/.pdf
 """
 
 from __future__ import annotations

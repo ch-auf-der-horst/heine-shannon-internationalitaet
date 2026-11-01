@@ -4,11 +4,11 @@
 Analysis + visualization for correspondent-level Shannon/Evenness results.
 
 Inputs:
-  - Auswertungen/korrespondenten_profile_pred_top100.csv
+  - data/korrespondenten_profile_pred_top100.csv
 Optional:
   - top_100_korrespondenten_zum_labeln.csv (adds role/group columns if present)
 
-Outputs (in Auswertungen/):
+Outputs (in data/):
   - shannon_summary.md
   - shannon_top_bottom.csv
   - plot_shannon_hist.png/.pdf

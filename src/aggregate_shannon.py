@@ -5,10 +5,10 @@ Aggregate predicted letter-level category weights to correspondent-level profile
 (bidirectional Heine <-> partner), then compute Shannon index + evenness.
 
 Inputs:
-  - Auswertungen/brief_predictions_top100.csv
+  - data/brief_predictions_top100.csv
 
 Outputs:
-  - Auswertungen/korrespondenten_profile_pred_top100.csv
+  - data/korrespondenten_profile_pred_top100.csv
 """
 
 from __future__ import annotations

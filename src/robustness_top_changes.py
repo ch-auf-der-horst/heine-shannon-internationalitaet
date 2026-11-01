@@ -5,8 +5,8 @@ Post-process robustness_shannon_comparison.csv to identify largest changes
 between aggregation variants (delta + rank shifts).
 
 Outputs:
-  - Auswertungen/robustness_shannon_top_changes.csv
-  - Auswertungen/robustness_shannon_top_changes.md
+  - data/robustness_shannon_top_changes.csv
+  - data/robustness_shannon_top_changes.md
 """
 
 from __future__ import annotations

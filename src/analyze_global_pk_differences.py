@@ -4,11 +4,11 @@
 Analyze and visualize category distribution shifts (P_k) across strata.
 
 Reads:
-  - Auswertungen/global_shannon_top100_by_phase_direction.csv
+  - data/global_shannon_top100_by_phase_direction.csv
 
 Produces:
-  - Auswertungen/global_pk_differences_top100.csv
-  - Auswertungen/global_pk_differences_top100.md
+  - data/global_pk_differences_top100.csv
+  - data/global_pk_differences_top100.md
   - Plots (png+pdf):
       plot_pk_heatmap_brief.png/.pdf
       plot_pk_heatmap_partner.png/.pdf

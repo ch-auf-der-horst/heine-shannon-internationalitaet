@@ -4,12 +4,12 @@
 Run inference for all Heine-involved letters, restricted to TOP-100 partners.
 
 Inputs:
-  - Master CSV (20251020 version)
-  - TOP-100 list CSV
-  - Trained model joblib
+  - local/alle_baende_MASTER.csv (edition master file, not published)
+  - local/top_100_korrespondenten.csv
+  - local/ml_baseline_tfidf_model.joblib
 
 Outputs:
-  - Auswertungen/brief_predictions_top100.csv
+  - data/brief_predictions_top100.csv
 """
 
 from __future__ import annotations
