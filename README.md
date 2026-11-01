@@ -1,5 +1,7 @@
 # Heine correspondence: Shannon index and internationality
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23864801.svg)](https://doi.org/10.5281/zenodo.23864801)
+
 Reproduction materials for a study of **functional diversity** in Heinrich Heine’s letter network (TOP-100 correspondents, DHA vols. 20–38).
 
 > **Important:** This repository does **not** contain letter full texts from the Düsseldorf Heine Edition. It provides pipeline code, aggregated metrics (category weights, Shannon *H*), a metadata codebook, and publication figures.
@@ -61,7 +63,7 @@ The computational analyses were carried out in Python, using in particular sciki
 
 ## Citation
 
-Cite this repository / release / DOI once published. See `CITATION.cff`.
+Please cite the article and this release (v1.0): https://doi.org/10.5281/zenodo.23864801 . See `CITATION.cff`.
 
 ## Repository
 
